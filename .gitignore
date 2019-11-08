@@ -7,5 +7,6 @@
 /captures
 .externalNativeBuild
 build.gradle
+Google-Maps-2018
 app/build.gradle
 app/google-services.json
